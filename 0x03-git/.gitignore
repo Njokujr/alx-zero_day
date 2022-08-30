@@ -1,0 +1,12 @@
+~/alx-zero_day(main)
+$ cd 0x03-git
+~/alx-zero_day/0x03-git (main)
+$ echo "~">.gitignore
+~/alx-zero_day/0x03-git (main)
+$ cat .gitignore
+~/alx-zero_day/0x03-git (main)
+$ git add. 
+~/alx-zero_day/0x03-git (main)
+$ git commit -m "~"
+~/alx-zero_day/0x03-git (main)
+git push
